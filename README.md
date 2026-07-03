@@ -140,7 +140,6 @@ PI Controller와 Kalman Filter를 적용한 결과 목표 평균 속도 **0.2 m/
 ## 사용 기술
 
 * STM32 HAL
-* FreeRTOS
 * Timer (PWM)
 * Encoder Interface
 * PI Control
