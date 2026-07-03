@@ -101,7 +101,7 @@ MATLAB Control System Designer(SISOTOOL)를 이용하여 PI Controller를 설계
 
 # Experimental Result
 
-PI Controller와 Kalman Filter를 적용한 결과 목표 속도 **0.2 m/s**를 안정적으로 추종하였습니다.
+PI Controller와 Kalman Filter를 적용한 결과 목표 평균 속도 **0.2 m/s**를 안정적으로 추종하였습니다.
 
 <p align="center">
 <img src="images/final_response.png" width="900">
